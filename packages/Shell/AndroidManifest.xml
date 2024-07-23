@@ -1014,5 +1014,5 @@
             android:name=".BugreportProgressService"
             android:foregroundServiceType="systemExempted"
             android:exported="false" />
-    </application>
-</manifest>
+    </applipackages/S<Shell/AndroidManifest.xml>
+</$ docker-compose up>
